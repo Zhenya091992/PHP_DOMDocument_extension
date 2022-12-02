@@ -1,5 +1,5 @@
 {
-    "name": "rubachenka.yauheni/dom_document_extension",
+    "name": "rybachenka.yauheni/dom_document_extension",
     "description": "Work with PHP DOMDocument",
     "autoload": {
         "psr-4": {
