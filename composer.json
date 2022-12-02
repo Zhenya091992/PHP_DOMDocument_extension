@@ -1,0 +1,19 @@
+{
+    "name": "rubachenka.yauheni/dom_document_extension",
+    "description": "Work with PHP DOMDocument",
+    "autoload": {
+        "psr-4": {
+            "Yayheniy\\PhpDomDocumentExtension\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yayheni",
+            "email": "rubachenka.yauheni@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "ext-dom": "*"
+    }
+}
